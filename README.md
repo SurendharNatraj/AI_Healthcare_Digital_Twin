@@ -1,19 +1,19 @@
-🏥 AI Healthcare Digital Twin
+**🏥 AI Healthcare Digital Twin**
 📌 Overview
 
 AI Healthcare Digital Twin is a machine learning based preventive healthcare system that creates a virtual health profile of an individual. It analyzes lifestyle and health parameters to predict potential health risks and support early medical intervention.
 
-🎯 Motivation
+**🎯 Motivation**
 
 Most health issues can be avoided through early detection. This project helps individuals and healthcare professionals by providing AI-driven insights using basic health data.
 
-🏗️ System Architecture
+**🏗️ System Architecture**
 
 👤 User enters health and lifestyle data
 🧠 Machine learning model processes the input
 📊 Health risk prediction is generated
 
-✨ Features
+**✨ Features**
 
 ✅ AI-based health risk prediction
 ✅ Preventive healthcare analysis
@@ -21,20 +21,20 @@ Most health issues can be avoided through early detection. This project helps in
 ✅ Software-only implementation
 ✅ Real-time prediction
 
-🛠️ Technology Stack
+**🛠️ Technology Stack**
 
 🐍 Python
 📚 Scikit-learn
 📊 Pandas & NumPy
 🖥️ Streamlit
 
-▶️ How to Run
+**▶️ How to Run**
 git clone https://github.com/SurendharNatraj/AI_Healthcare_Digital_Twin.git
 cd AI_Healthcare_Digital_Twin
 pip install -r requirements.txt
 streamlit run app.py
 
-🧾 Input Parameters
+**🧾 Input Parameters**
 
 📅 Age
 🚻 Gender
@@ -43,29 +43,29 @@ streamlit run app.py
 🍽️ Lifestyle Habits
 🧬 Health Metrics
 
-📤 Output
+**📤 Output**
 
 📈 Health risk prediction
 🩺 Preventive healthcare suggestions
 
-🌍 Applications
+**🌍 Applications**
 
 🏥 Preventive healthcare systems
 📱 Health monitoring platforms
 🧠 Clinical decision support
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 ⌚ Wearable device integration
 ☁️ Cloud deployment
 📱 Mobile application
 🤖 Personalized health recommendations
 
-🎓 Project Details
+**🎓 Project Details**
 
 Final Year Project
 Artificial Intelligence and Data Science
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Surendhar Natraj
