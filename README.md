@@ -51,6 +51,8 @@ streamlit run app.py
 
 📈 Health risk prediction
 🩺 Preventive healthcare suggestions
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/f1020110-f61a-4868-8f5a-f6a72d8b3837" />
+
 <img width="1364" height="717" alt="image" src="https://github.com/user-attachments/assets/06dac735-4b53-4328-aa29-66c9ce3a6793" />
 
 
