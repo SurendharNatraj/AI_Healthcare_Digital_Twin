@@ -21,6 +21,7 @@ Most health issues can be avoided through early detection. This project helps in
 ✅ Software-only implementation
 ✅ Real-time prediction
 
+
 **🛠️ Technology Stack**
 
 🐍 Python
@@ -28,11 +29,13 @@ Most health issues can be avoided through early detection. This project helps in
 📊 Pandas & NumPy
 🖥️ Streamlit
 
+
 **▶️ How to Run**
 git clone https://github.com/SurendharNatraj/AI_Healthcare_Digital_Twin.git
 cd AI_Healthcare_Digital_Twin
 pip install -r requirements.txt
 streamlit run app.py
+
 
 **🧾 Input Parameters**
 
@@ -43,16 +46,19 @@ streamlit run app.py
 🍽️ Lifestyle Habits
 🧬 Health Metrics
 
+
 **📤 Output**
 
 📈 Health risk prediction
 🩺 Preventive healthcare suggestions
+
 
 **🌍 Applications**
 
 🏥 Preventive healthcare systems
 📱 Health monitoring platforms
 🧠 Clinical decision support
+
 
 **🚀 Future Enhancements**
 
@@ -61,10 +67,12 @@ streamlit run app.py
 📱 Mobile application
 🤖 Personalized health recommendations
 
+
 **🎓 Project Details**
 
 Final Year Project
 Artificial Intelligence and Data Science
+
 
 **👨‍💻 Author**
 
